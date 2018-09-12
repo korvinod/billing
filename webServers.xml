@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9d38e9d3-f045-4bf8-a8a9-d5b107a491ab" name="Billing" url="http://ecofactor.ga">
+        <fileTransfer host="revera.tv" port="21" rootFolder="/web/ecofactor.ga/public_html">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
